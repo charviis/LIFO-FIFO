@@ -7,5 +7,5 @@ interface Pushable{
 }
 ```
 
-### obě třídy budou implementovat dané rozhraní
+### Obě třídy budou implementovat dané rozhraní
 ### Odevzdávejte jako odkaz na github.
